@@ -1,5 +1,5 @@
 # Dockerfile made to test this
-FROM python:alpine
+FROM python:3-alpine3.18
 
 MAINTAINER Lorenzo Setale <lorenzo@setale.me>
 
